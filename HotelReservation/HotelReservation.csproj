@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="MVVM\View Model\" />
-    <Folder Include="MVVM\Views\" />
   </ItemGroup>
 
 </Project>

@@ -37,7 +37,7 @@ namespace HotelReservation
 
             
 
-            IEnumerable<Reservation> reservations = hotel.GetReservationsForUser("Idlan Azahari"); //hmmm menarikk
+            //IEnumerable<Reservation> reservations = hotel.GetAllReservations("Idlan Azahari"); //hmmm menarikk
 
 
             base.OnStartup(e);

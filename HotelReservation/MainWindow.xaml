@@ -6,7 +6,7 @@
         xmlns:views="clr-namespace:HotelReservation.MVVM.Views"
         mc:Ignorable="d"
         Title="Hotel Reservation" Height="450" Width="800">
-    <Grid>
+    <Grid Margin="20 10" MaxWidth="600">
         <views:MakeReservationView/>
     </Grid>
 </Window>
